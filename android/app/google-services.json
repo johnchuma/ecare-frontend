@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "213431238886",
+    "project_id": "ecare-85b8c",
+    "storage_bucket": "ecare-85b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213431238886:android:918613e30c79459bf23b27",
+        "android_client_info": {
+          "package_name": "com.olanets.ecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213431238886-p5rq02j5bgdf9r3t32e09ngrj4usna2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olanets.ecare",
+            "certificate_hash": "bf842af996303fb6d5150a3b117ad34c310f29d3"
+          }
+        },
+        {
+          "client_id": "213431238886-6b94s4qaj30k69h4t5imq7il18olimue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgCX6MRxGuvNOcK2WLKZyZ9CjiD3MucGQ"
+        } 
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213431238886-6b94s4qaj30k69h4t5imq7il18olimue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
